@@ -1,0 +1,40 @@
+Git Commands that i have to remember while i am uploading code to github.
+(1) git add .
+This will add the specified file(s) into the Git repository, the staging area, where they are already being tracked by Git and now ready to be committed.
+
+(2) git commit -m "the message you want to show in your git repository"
+The message will add in your git repository with the message that you want to show.
+
+(3) git push
+Now this commands will add your code to the github repository whetever your code in any of the text editor like VS CODE , Sublime Text etc and now your code will successfully upload to your github repository.
+
+(4) git pull
+The git pull command first runs ‘git fetch’ which downloads the content from the specified remote repository and then immediately updates the local repo to match the content.
+
+Q) What are the process of uploading any code files to github and what are commands?
+Ans) These are the commands for uploading any code files to github and commands are as follows:-
+git init 
+We have to navigate to our project directory and type the command git init to initialize a Git repository for our local project folder. Git will create a hidden .git directory and use it for keeping its files organized in other subdirectories.
+
+git add .
+This will add the specified file(s) into the Git repository, the staging area, where they are already being tracked by Git and now ready to be committed.
+
+git commit -m "first commit" | syntax is git commit -m "your message here"
+
+git push origin master
+
+Finally your project is uplaoded to github successfully.
+
+To upload any files on github use these commands
+
+1) git init
+2) git remote add origin https://github.com/Nitin1604/JavaScript-Tutorials.git
+    2.1) https://github.com/Nitin1604/JavaScript-Tutorials.git
+         I have recently uploaded some files to github repositories with name as "JavaScript-Tutorials"
+         and you can also add another files on github too using this link "https://github.com/Nitin1604/File name.git"
+         File name : "It may be any name of the file that you may want to upload on github repositories"
+3) git commit -m  "message that you want to show"
+4) git add . 
+5) git push
+ 
+Finally all files are uploaded to github repositories
