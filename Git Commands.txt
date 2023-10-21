@@ -1,4 +1,4 @@
-Git Commands that i have to remember while i am uploading code to github.  
+Git Commands that i have to remember while i am uploading code to github.   
 (1) git add .
 This will add the specified file(s) into the Git repository, the staging area, where they are already being tracked by Git and now ready to be committed.
 
