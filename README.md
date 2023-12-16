@@ -1,5 +1,5 @@
 # gitCommands                                                                                                                                                                       
-These git commands are helpful while uploading files on github                                                           
+These git commands are helpful while uploading files on github                                                            
 ___________________________________________________________________________________________________________ 
 git init  
 git commit -m "message you want to write" 
