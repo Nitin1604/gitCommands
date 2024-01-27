@@ -1,5 +1,4 @@
 # gitCommands                                                                                                                                                                                   
-These git commands are helpful while uploading files on github                                                                                                                      ___________________________________________________________________________________________________________ 
 1) Initialize the git repositories
 ```
 git init
@@ -18,4 +17,3 @@ Considered above as an example
 ```
 git push -u origin master    
 ```
-____________________________________________________________________________________________________________
