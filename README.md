@@ -1,4 +1,4 @@
-# gitCommands                                                                                                                                                                                                                                        
+# gitCommands                                                                                                                                                                                                                                         
 1) Initialize the git repositories
 ```
 git init
